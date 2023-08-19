@@ -150,7 +150,7 @@ The following should be installed by default.
 
 #### 2.2.1. Infrastructure (AWS)
 
-[Readme Link](https://github.com/klaytn/finder-infra/blob/main/aws/README.md)
+[Readme Link](https://github.com/klaytn/finder-infra/blob/main/README.md)
 
 #### 2.2.2. Data Streaming (Scala, Spark)
 
